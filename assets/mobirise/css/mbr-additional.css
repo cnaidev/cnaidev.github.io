@@ -1,0 +1,333 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+#dropdown-menu-g .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-g .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-g .nav .link,
+#dropdown-menu-g .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-g .navbar,
+#dropdown-menu-g .dropdown-menu {
+  background: #2c82c9;
+}
+#dropdown-menu-g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-g .dropdown-menu a:hover,
+#dropdown-menu-g .dropdown-menu a:focus {
+  background: #2877b8;
+}
+#dropdown-menu-g .navbar-toggler {
+  color: #ffffff;
+}
+#msg-box4-1a .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-1a .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1a .mbr-article {
+  color: #ffffff;
+}
+#content1-k P {
+  color: #222222;
+}
+#contacts1-h P {
+  color: #ffffff;
+}
+#contacts1-h DIV {
+  color: #ffffff;
+}
+#contacts1-h B {
+  font-size: 15px;
+}
+#contacts1-h STRONG {
+  font-size: 15px;
+}
+#footer1-i P {
+  color: #ffffff;
+}
+#dropdown-menu-m .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-m .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-m .nav .link,
+#dropdown-menu-m .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-m .navbar,
+#dropdown-menu-m .dropdown-menu {
+  background: #2c82c9;
+}
+#dropdown-menu-m .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-m .dropdown-menu a:hover,
+#dropdown-menu-m .dropdown-menu a:focus {
+  background: #2877b8;
+}
+#dropdown-menu-m .navbar-toggler {
+  color: #ffffff;
+}
+#msg-box4-u .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-u .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-u .mbr-article {
+  color: #000000;
+}
+#msg-box4-u .mbr-article P {
+  color: #ffffff;
+}
+#features1-z P {
+  color: #222222;
+}
+#features1-11 P {
+  color: #222222;
+}
+#form1-u .mbr-header__text {
+  color: #ffffff;
+}
+#contacts1-n P {
+  color: #ffffff;
+}
+#contacts1-n DIV {
+  color: #ffffff;
+}
+#contacts1-n B {
+  font-size: 15px;
+}
+#contacts1-n STRONG {
+  font-size: 15px;
+}
+#footer1-o P {
+  color: #ffffff;
+}
+
+#dropdown-menu-6 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-6 .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-6 .nav .link,
+#dropdown-menu-6 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-6 .navbar,
+#dropdown-menu-6 .dropdown-menu {
+  background: #2c82c9;
+}
+#dropdown-menu-6 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-6 .dropdown-menu a:hover,
+#dropdown-menu-6 .dropdown-menu a:focus {
+  background: #2877b8;
+}
+#dropdown-menu-6 .navbar-toggler {
+  color: #ffffff;
+}
+#features1-4 .mbr-section-title .mbr-header__text {
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 20px;
+}
+#features1-4 .mbr-section__col .mbr-header__text {
+  font-size: 20px;
+}
+#features1-4 P {
+  font-size: 15px;
+  color: #222222;
+}
+#msg-box2-8 .mbr-header .mbr-header__text {
+  color: #252525;
+  font-size: 20px;
+}
+#msg-box2-8 .mbr-article {
+  color: #252525;
+}
+#content4-7 P {
+  font-size: 15px;
+  color: #222222;
+}
+#content4-7 .mbr-section__col .mbr-header__text {
+  font-size: 15px;
+}
+#content4-7 .mbr-section-title .mbr-header__text {
+  font-size: 20px;
+}
+#header3-a H3 {
+  text-align: center;
+  font-size: 20px;
+}
+#header3-a P {
+  text-align: center;
+}
+#header3-a SPAN {
+  font-size: 14px;
+}
+#slider2-h P {
+  color: #b8312f;
+  text-align: right;
+  font-size: 14px;
+}
+#slider2-h H1 {
+  color: #000000;
+}
+#testimonials1-c .mbr-reviews__text P {
+  color: #222222;
+}
+#contacts1-b P {
+  color: #ffffff;
+}
+#contacts1-b DIV {
+  color: #ffffff;
+}
+#contacts1-b B {
+  font-size: 15px;
+}
+#contacts1-b STRONG {
+  font-size: 15px;
+}
+#footer1-g P {
+  color: #ffffff;
+}
+#dropdown-menu-l .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-l .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-l .nav .link,
+#dropdown-menu-l .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-l .navbar,
+#dropdown-menu-l .dropdown-menu {
+  background: #2c82c9;
+}
+#dropdown-menu-l .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-l .dropdown-menu a:hover,
+#dropdown-menu-l .dropdown-menu a:focus {
+  background: #2877b8;
+}
+#dropdown-menu-l .navbar-toggler {
+  color: #ffffff;
+}
+#msg-box4-m .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-m .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-m .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-m .mbr-article P {
+  color: #ffffff;
+}
+#features1-o P {
+  color: #222222;
+}
+#features1-p P {
+  color: #222222;
+}
+#form1-t .mbr-header__text {
+  color: #ffffff;
+}
+#contacts1-r P {
+  color: #ffffff;
+}
+#contacts1-r DIV {
+  color: #ffffff;
+}
+#contacts1-r B {
+  font-size: 15px;
+}
+#contacts1-r STRONG {
+  font-size: 15px;
+}
+#footer1-s P {
+  color: #ffffff;
+}
+#dropdown-menu-12 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-12 .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-12 .nav .link,
+#dropdown-menu-12 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-12 .navbar,
+#dropdown-menu-12 .dropdown-menu {
+  background: #2c82c9;
+}
+#dropdown-menu-12 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-12 .dropdown-menu a:hover,
+#dropdown-menu-12 .dropdown-menu a:focus {
+  background: #2877b8;
+}
+#dropdown-menu-12 .navbar-toggler {
+  color: #ffffff;
+}
+#contacts1-13 P {
+  color: #ffffff;
+}
+#contacts1-13 DIV {
+  color: #ffffff;
+}
+#contacts1-13 B {
+  font-size: 15px;
+}
+#contacts1-13 STRONG {
+  font-size: 15px;
+}
+#footer1-14 P {
+  color: #ffffff;
+}
+#dropdown-menu-16 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-16 .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-16 .nav .link,
+#dropdown-menu-16 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-16 .navbar,
+#dropdown-menu-16 .dropdown-menu {
+  background: #2c82c9;
+}
+#dropdown-menu-16 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-16 .dropdown-menu a:hover,
+#dropdown-menu-16 .dropdown-menu a:focus {
+  background: #2877b8;
+}
+#dropdown-menu-16 .navbar-toggler {
+  color: #ffffff;
+}
+#contacts1-17 P {
+  color: #ffffff;
+}
+#contacts1-17 DIV {
+  color: #ffffff;
+}
+#contacts1-17 B {
+  font-size: 15px;
+}
+#contacts1-17 STRONG {
+  font-size: 15px;
+}
+#footer1-18 P {
+  color: #ffffff;
+}
