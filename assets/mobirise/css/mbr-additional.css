@@ -84,6 +84,20 @@
 #msg-box4-u .mbr-article P {
   color: #ffffff;
 }
+#msg-box4-2p .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-2p .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-2p .mbr-article {
+  color: #ffffff;
+  font-size: 15px;
+}
+#msg-box4-2p .mbr-article P {
+  font-size: 17px;
+  color: #222222;
+}
 #features1-z P {
   color: #222222;
 }
@@ -497,6 +511,70 @@
 }
 #msg-box4-24 .mbr-article UL {
   color: #222222;
+}
+#accordion-block-2q .panel-body {
+  padding: 15px;
+}
+#accordion-block-2q .panel-group {
+  margin-bottom: 20px;
+}
+#accordion-block-2q .panel {
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
+}
+#accordion-block-2q .panel-default {
+  border-color: #ddd;
+}
+#accordion-block-2q .panel-group .panel {
+  margin-bottom: 0px;
+  border-radius: 4px;
+}
+#accordion-block-2q .panel-group .panel + .panel {
+  margin-top: 5px;
+}
+#accordion-block-2q .panel-heading {
+  padding: 10px 15px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+#accordion-block-2q .panel-group .panel-heading {
+  border-bottom: 0;
+}
+#accordion-block-2q .panel-default > .panel-heading {
+  color: #333;
+  background-color: #f5f5f5;
+  border-color: #ddd;
+}
+#accordion-block-2q .collapse {
+  display: n1;
+}
+#accordion-block-2q .panel-group .panel-heading + .panel-collapse > .panel-body,
+#accordion-block-2q .panel-group .panel-heading + .panel-collapse > .list-group {
+  border-top: 1px solid #ddd;
+}
+#accordion-block-2q .panel-default > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #ddd;
+}
+#accordion-block-2q .panel-title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 16px;
+  color: inherit;
+}
+#accordion-block-2q [role="button"] {
+  cursor: pointer;
+}
+#accordion-block-2q .panel-title > a,
+#accordion-block-2q .panel-title > small,
+#accordion-block-2q .panel-title > .small,
+#accordion-block-2q .panel-title > small > a,
+#accordion-block-2q .panel-title > .small > a {
+  color: inherit;
 }
 #contacts1-22 P {
   color: #ffffff;

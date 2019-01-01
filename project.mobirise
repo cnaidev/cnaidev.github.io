@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cnaitrack gps tracking",
-    "currentPage": "GPS_Employee.html",
+    "currentPage": "beranda.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,11 +13,14 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.8",
     "siteFonts": [],
-    "uniqCompNum": 97,
+    "uniqCompNum": 101,
     "versionPublish": "4.8.8",
     "favicon": "@PROJECT_PATH@/assets/images/cnai-16x16.png",
     "noImageResize": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "html_before": "",
+    "headbody": "",
+    "botbody": "<script type=\"text/javascript\">\r\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\r\n(function(){\r\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\r\ns1.async=true;\r\ns1.src='https://embed.tawk.to/5c2a05ef82491369baa0035b/default';\r\ns1.charset='UTF-8';\r\ns1.setAttribute('crossorigin','*');\r\ns0.parentNode.insertBefore(s1,s0);\r\n})();\r\n</script>"
   },
   "pages": {
     "tentang_kami.html": {
@@ -60,7 +63,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack_com.cnaitrack.client.app?alt=media&amp;token=5c1dc41e-0251-4df1-9d5d-daa2adb0066f\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCNAI%20Tracker_com.cnaitrack.cnai.tracker?alt=media&amp;token=838f1426-3f8f-4df4-9a53-9422c6caa08d\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"beranda.html\">BERANDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack.apk?alt=media&amp;token=708c1726-55ef-4b46-b5c4-730b1989262d\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FTracker.apk?alt=media&amp;token=52186c7e-2164-438c-944a-3d70cfa1ddfb\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -295,7 +298,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack_com.cnaitrack.client.app?alt=media&amp;token=5c1dc41e-0251-4df1-9d5d-daa2adb0066f\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCNAI%20Tracker_com.cnaitrack.cnai.tracker?alt=media&amp;token=838f1426-3f8f-4df4-9a53-9422c6caa08d\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"beranda.html\">BERANDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack.apk?alt=media&amp;token=708c1726-55ef-4b46-b5c4-730b1989262d\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FTracker.apk?alt=media&amp;token=52186c7e-2164-438c-944a-3d70cfa1ddfb\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -385,6 +388,79 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-u"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "53",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fmb920-scheme-1000x910.jpg",
+              "link": "",
+              "alt": "device",
+              "title": "fmb920"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "FMB920<br>",
+          "text": "<p><b>Bluetooth</b></p><p>Terintegrasi dengan Bluetooh. Dapat terhubung dengan wireless headset dan sensor bluetooth lainnya. Lakukan panggilan pada driver anda dengan menggunakan bluetooth. Lebih aman komunikasi dengan menggunakan headset.</p><p><b>Micro SD</b></p><p>Dilengkapi dengan Micro SD. GPS akan menyimpan data pada Micro SD selama kendaraan melakukan perjalanan pada daerah yang tidak tercover signal GSM.</p><p><b>Crash Detection</b></p><p>Mendeteksi terjadinya kecelakaan pada kendaraan dengan mengirimkan peringatan ke Server pada secara realtime.</p><p><b>Advanced Antitheft System</b></p><p>Cegah terjadinya pencurian dengan Auto Geofencing yang dikombinasikan dengan Towing alert. GPS akan secara otomatis membuat area geofence jika kendaraan dalam kondisi off, sehingga jika kendaraan keluar dari area geofence dengan kondisi mesin off GPS akan mengirimkan peringatan secara langsung.</p><p><b>Ultra Small Case</b></p><p>Dengan ukurannya yang kecil alat ini mudah disembunyikan. kabel dan batere cadangan yang tidak bisa dilepas untuk mendeteksi adanya power yang terputus.</p><p><b>Certified IP54 case</b></p><p>Dengan kesing serifikasi IP54. FMB920 memastikan perlindungan terhadap debu dan percikan air.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            ".mbr-article P": {
+              "font-size": "17px",
+              "color": "#222222"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2p"
         },
         {
           "_params": {
@@ -977,7 +1053,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack_com.cnaitrack.client.app?alt=media&amp;token=5c1dc41e-0251-4df1-9d5d-daa2adb0066f\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCNAI%20Tracker_com.cnaitrack.cnai.tracker?alt=media&amp;token=838f1426-3f8f-4df4-9a53-9422c6caa08d\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"beranda.html\">BERANDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack.apk?alt=media&amp;token=708c1726-55ef-4b46-b5c4-730b1989262d\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FTracker.apk?alt=media&amp;token=52186c7e-2164-438c-944a-3d70cfa1ddfb\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1759,7 +1835,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack_com.cnaitrack.client.app?alt=media&amp;token=5c1dc41e-0251-4df1-9d5d-daa2adb0066f\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCNAI%20Tracker_com.cnaitrack.cnai.tracker?alt=media&amp;token=838f1426-3f8f-4df4-9a53-9422c6caa08d\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"beranda.html\">BERANDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack.apk?alt=media&amp;token=708c1726-55ef-4b46-b5c4-730b1989262d\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FTracker.apk?alt=media&amp;token=52186c7e-2164-438c-944a-3d70cfa1ddfb\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2438,7 +2514,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack_com.cnaitrack.client.app?alt=media&amp;token=5c1dc41e-0251-4df1-9d5d-daa2adb0066f\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCNAI%20Tracker_com.cnaitrack.cnai.tracker?alt=media&amp;token=838f1426-3f8f-4df4-9a53-9422c6caa08d\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"beranda.html\">BERANDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack.apk?alt=media&amp;token=708c1726-55ef-4b46-b5c4-730b1989262d\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FTracker.apk?alt=media&amp;token=52186c7e-2164-438c-944a-3d70cfa1ddfb\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2734,7 +2810,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack_com.cnaitrack.client.app?alt=media&amp;token=5c1dc41e-0251-4df1-9d5d-daa2adb0066f\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCNAI%20Tracker_com.cnaitrack.cnai.tracker?alt=media&amp;token=838f1426-3f8f-4df4-9a53-9422c6caa08d\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"beranda.html\">BERANDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack.apk?alt=media&amp;token=708c1726-55ef-4b46-b5c4-730b1989262d\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FTracker.apk?alt=media&amp;token=52186c7e-2164-438c-944a-3d70cfa1ddfb\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2873,7 +2949,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack_com.cnaitrack.client.app?alt=media&amp;token=5c1dc41e-0251-4df1-9d5d-daa2adb0066f\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCNAI%20Tracker_com.cnaitrack.cnai.tracker?alt=media&amp;token=838f1426-3f8f-4df4-9a53-9422c6caa08d\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"beranda.html\">BERANDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack.apk?alt=media&amp;token=708c1726-55ef-4b46-b5c4-730b1989262d\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FTracker.apk?alt=media&amp;token=52186c7e-2164-438c-944a-3d70cfa1ddfb\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3605,7 +3681,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack_com.cnaitrack.client.app?alt=media&amp;token=5c1dc41e-0251-4df1-9d5d-daa2adb0066f\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCNAI%20Tracker_com.cnaitrack.cnai.tracker?alt=media&amp;token=838f1426-3f8f-4df4-9a53-9422c6caa08d\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"beranda.html\">BERANDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack.apk?alt=media&amp;token=708c1726-55ef-4b46-b5c4-730b1989262d\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FTracker.apk?alt=media&amp;token=52186c7e-2164-438c-944a-3d70cfa1ddfb\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3819,7 +3895,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack_com.cnaitrack.client.app?alt=media&amp;token=5c1dc41e-0251-4df1-9d5d-daa2adb0066f\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCNAI%20Tracker_com.cnaitrack.cnai.tracker?alt=media&amp;token=838f1426-3f8f-4df4-9a53-9422c6caa08d\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"beranda.html\">BERANDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tentang_kami.html\">TENTANG KAMI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gps_tracker.html\">GPS For Fleet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPS_Employee.html\">GPS For Employee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fitur.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FITUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"realtime_tracking.html\" aria-expanded=\"false\">Realtime Tracking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laporan.html\" aria-expanded=\"false\">Laporan dan Analisa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fleet_management.html\" aria-expanded=\"false\">Fleet Management<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"task_management.html\" aria-expanded=\"false\">Task Management</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"blog.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FCnaitrack.apk?alt=media&amp;token=708c1726-55ef-4b46-b5c4-730b1989262d\">Cnaitrack Android Client Apps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://firebasestorage.googleapis.com/v0/b/webcnai-aa0f3.appspot.com/o/apk%2FTracker.apk?alt=media&amp;token=52186c7e-2164-438c-944a-3d70cfa1ddfb\" aria-expanded=\"false\">CNAI Tracker Android</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"tel:+6281311972012\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>0813 1197 2012&nbsp;</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3912,6 +3988,539 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-24"
+        },
+        {
+          "_params": {
+            "nbAccordion": "7",
+            "showTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/accordion/deltapi.svg",
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "accordions": [
+              {
+                "heading": "heading1",
+                "collapse": "collapse1",
+                "href": "#collapse1",
+                "active": true,
+                "title": "INPUT WORK ORDER",
+                "text": "Supervisor melakukan input data pekerjaan secara manual atau upload file excel sesuai dengan format yang ditentukan. Kemudian tetapkan pekerjaan tersebut ke karyawan."
+              },
+              {
+                "heading": "heading2",
+                "collapse": "collapse2",
+                "href": "#collapse2",
+                "active": true,
+                "title": "KARYAWAN MENERIMA ORDER PADA APLIKASI TRACKER",
+                "text": "Secara realtime karyawan akan menerima notifikasi pada aplikasi tracker data pekerjaan yang ditetapkan ke mereka. Proses ini akan mempersingkat waktu pendistribusian pekerjaan dan penerapan papperless job."
+              },
+              {
+                "heading": "heading3",
+                "collapse": "collapse3",
+                "href": "#collapse3",
+                "active": true,
+                "title": "PEMBERITAHUAN SETIAP PERUBAHAN STATUS PEKERJAAN",
+                "text": "Pekerjaan yang sudah ditetapkan akan secara otomatis menghasilkan Event dan melakukan pemberitahuan secara langsung setiap aktifitas yang terjadi dalam pelaksanaan. Seperti Karyawan sudah sampai ke lokasi pekerjaan, atau karyawan tidak sampai ke lokasi tujuan dengan waktu yang sudah ditetapkan.&nbsp;"
+              },
+              {
+                "active": true,
+                "heading": "heading4",
+                "collapse": "collapse4",
+                "href": "#collapse4",
+                "title": "MONITOR PEKERJAAN MASING - MASING KARYAWAN PADA APLIKASI MOBILE &amp; WEB",
+                "text": "Setelah pekerjaan harian di upload dan terkirim kepada semua karyawan. Supervisor bisa melakukan monitoring langsung pada aplikasi website atau aplikasi mobile jika sedang berada diluar ruangan. Secara cepat supervisor dapat mengetahui berapa pekerjaan ditetapkan kepada karyawan dan pekerjaan yang sudah terselesaikan. Dan jika kondisi tidak memungkinkan supervisor juga bisa melakukan switch pekerjaan dari karyawan yang satu ke karyawan lain pada aplikasi."
+              },
+              {
+                "active": true,
+                "heading": "heading5",
+                "collapse": "collapse5",
+                "href": "#collapse5",
+                "title": "KUSTOMER ANDA MELAKUKAN TRACKING DENGAN NO ORDER ID [ UNTUK KURIR DAN PENGIRIMAN ]",
+                "text": "Untuk kasus pada bidang industri pengiriman barang, perusahaan dapat memberikan akses kepada kustomer untuk melakukan tracking langsung pengiriman yang sedang dilakukan dengan identifikasi no ORDER ID yang sudah di upload sebelumnya. kami menyediakan aplikasi untuk kustomer anda melakukan tracking pengiriman atau dengan cara embed kode html yang kami sediakan pada website perusahaan anda."
+              },
+              {
+                "active": true,
+                "heading": "heading6",
+                "collapse": "collapse6",
+                "href": "#collapse6",
+                "title": "SUBMIT FORM SEBAGAI BUKTI PEKERJAAN SELESAI",
+                "text": "Sebagai bukti pekerjaan telah selesai, karyawan bisa melakukan submit form pada aplikasi Tracker. Data yang harus disubmit bisa anda kustom sendiri seperti Foto, Video, Catatan Pelanggan, Tanda tangan dll. Setelah form disubmit, secara langsung supervisor akan mendapatkan pemberitahuan pekerjaan telah selesai dan data yang disubmit tersebut bisa langsung anda download dari email pemberitahuan tersebut."
+              },
+              {
+                "active": true,
+                "heading": "heading7",
+                "collapse": "collapse7",
+                "href": "#collapse7",
+                "title": "ANALISA LAPORAN PEKERJAAN HARIAN KARYAWAN",
+                "text": "Analisa pekerjaan harian sebagai KPI dan produktifitas karyawan anda."
+              },
+              {
+                "active": false,
+                "heading": "heading8",
+                "collapse": "collapse8",
+                "href": "#collapse8",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 8",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading9",
+                "collapse": "collapse9",
+                "href": "#collapse9",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 9",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading10",
+                "collapse": "collapse10",
+                "href": "#collapse10",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 10",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading11",
+                "collapse": "collapse11",
+                "href": "#collapse11",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 11",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading12",
+                "collapse": "collapse12",
+                "href": "#collapse12",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 12",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading13",
+                "collapse": "collapse13",
+                "href": "#collapse13",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 13",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading14",
+                "collapse": "collapse14",
+                "href": "#collapse14",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 14",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading15",
+                "collapse": "collapse15",
+                "href": "#collapse15",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 15",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading16",
+                "collapse": "collapse16",
+                "href": "#collapse16",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 16",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading17",
+                "collapse": "collapse17",
+                "href": "#collapse17",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 17",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading18",
+                "collapse": "collapse18",
+                "href": "#collapse18",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 18",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading19",
+                "collapse": "collapse19",
+                "href": "#collapse19",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 19",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading20",
+                "collapse": "collapse20",
+                "href": "#collapse20",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 20",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading21",
+                "collapse": "collapse21",
+                "href": "#collapse21",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 21",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading22",
+                "collapse": "collapse22",
+                "href": "#collapse22",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 22",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading23",
+                "collapse": "collapse23",
+                "href": "#collapse23",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 23",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading24",
+                "collapse": "collapse24",
+                "href": "#collapse24",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 24",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading25",
+                "collapse": "collapse25",
+                "href": "#collapse25",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 25",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading26",
+                "collapse": "collapse26",
+                "href": "#collapse26",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 26",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading27",
+                "collapse": "collapse27",
+                "href": "#collapse27",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 27",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading28",
+                "collapse": "collapse28",
+                "href": "#collapse28",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 28",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading29",
+                "collapse": "collapse29",
+                "href": "#collapse29",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 29",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading30",
+                "collapse": "collapse30",
+                "href": "#collapse30",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 30",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading31",
+                "collapse": "collapse31",
+                "href": "#collapse31",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 31",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading32",
+                "collapse": "collapse32",
+                "href": "#collapse32",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 32",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading33",
+                "collapse": "collapse33",
+                "href": "#collapse33",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 33",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading34",
+                "collapse": "collapse34",
+                "href": "#collapse34",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 34",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading35",
+                "collapse": "collapse35",
+                "href": "#collapse35",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 35",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading36",
+                "collapse": "collapse36",
+                "href": "#collapse36",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 36",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading37",
+                "collapse": "collapse37",
+                "href": "#collapse37",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 37",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading38",
+                "collapse": "collapse38",
+                "href": "#collapse38",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 38",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading39",
+                "collapse": "collapse39",
+                "href": "#collapse39",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 39",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading40",
+                "collapse": "collapse40",
+                "href": "#collapse40",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 40",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading41",
+                "collapse": "collapse41",
+                "href": "#collapse41",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 41",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading42",
+                "collapse": "collapse42",
+                "href": "#collapse42",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 42",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading43",
+                "collapse": "collapse43",
+                "href": "#collapse43",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 43",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading44",
+                "collapse": "collapse44",
+                "href": "#collapse44",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 44",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading45",
+                "collapse": "collapse45",
+                "href": "#collapse45",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 45",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading46",
+                "collapse": "collapse46",
+                "href": "#collapse46",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 46",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading47",
+                "collapse": "collapse47",
+                "href": "#collapse47",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 47",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading48",
+                "collapse": "collapse48",
+                "href": "#collapse48",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 48",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading49",
+                "collapse": "collapse49",
+                "href": "#collapse49",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 49",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading50",
+                "collapse": "collapse50",
+                "href": "#collapse50",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 50",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading51",
+                "collapse": "collapse51",
+                "href": "#collapse51",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 51",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading52",
+                "collapse": "collapse52",
+                "href": "#collapse52",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 52",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading53",
+                "collapse": "collapse53",
+                "href": "#collapse53",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 53",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading54",
+                "collapse": "collapse54",
+                "href": "#collapse54",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 54",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading55",
+                "collapse": "collapse55",
+                "href": "#collapse55",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 55",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading56",
+                "collapse": "collapse56",
+                "href": "#collapse56",
+                "title": "<span class=\"socicon socicon-angellist mbr-iconfont\" style=\"font-size: 24px;\"></span> Accordion 56",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              }
+            ]
+          },
+          "title": "CARA KERJA",
+          "_styles": {
+            ".panel-body": {
+              "padding": "15px"
+            },
+            ".panel-group": {
+              "margin-bottom": "20px"
+            },
+            ".panel": {
+              "margin-bottom": "20px",
+              "background-color": "#fff",
+              "border": "1px solid transparent",
+              "border-radius": "4px",
+              "-webkit-box-shadow": "0 1px 1px rgba(0, 0, 0, .05)",
+              "box-shadow": "0px 1px 1px rgba(0,0,0,0.05)"
+            },
+            ".panel-default": {
+              "border-color": "#ddd"
+            },
+            ".panel-group .panel": {
+              "margin-bottom": "0px",
+              "border-radius": "4px"
+            },
+            ".panel-group .panel + .panel": {
+              "margin-top": "5px"
+            },
+            ".panel-heading": {
+              "padding": "10px 15px",
+              "border-bottom": "1px solid transparent",
+              "border-top-left-radius": "3px",
+              "border-top-right-radius": "3px"
+            },
+            ".panel-group .panel-heading": {
+              "border-bottom": "0"
+            },
+            ".panel-default > .panel-heading": {
+              "color": "#333",
+              "background-color": "#f5f5f5",
+              "border-color": "#ddd"
+            },
+            ".collapse": {
+              "display": "n1"
+            },
+            ".panel-group .panel-heading + .panel-collapse > .panel-body, .panel-group .panel-heading + .panel-collapse > .list-group": {
+              "border-top": "1px solid #ddd"
+            },
+            ".panel-default > .panel-heading + .panel-collapse > .panel-body": {
+              "border-top-color": "#ddd"
+            },
+            ".panel-title": {
+              "margin-top": "0px",
+              "margin-bottom": "0px",
+              "font-size": "16px",
+              "color": "inherit"
+            },
+            "[role=\"button\"]": {
+              "cursor": "pointer"
+            },
+            ".panel-title > a, .panel-title > small, .panel-title > .small, .panel-title > small > a, .panel-title > .small > a": {
+              "color": "inherit"
+            }
+          },
+          "alias": "accordion",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "accordion-block",
+          "_anchor": "accordion-block-2q"
         },
         {
           "_params": {
